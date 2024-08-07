@@ -1,9 +1,8 @@
-# Smart ATS
+# ATS Tracker System
 
-![Smart ATS Screenshot](![image](https://github.com/user-attachments/assets/4067d69a-2ae5-4354-81a1-eb9f152bf62f)
-)
+![ATS Tracker System Screenshot](images/screenshort.jpg)
 
-Smart ATS is a Streamlit application designed to help job seekers improve their resumes by analyzing them against job descriptions. It uses Google Generative AI to evaluate resumes and provides feedback on how well they match the job description, along with missing keywords and a profile summary.
+ATS Tracker System is a Streamlit application designed to help job seekers improve their resumes by analyzing them against job descriptions. It uses Google Generative AI to evaluate resumes and provides feedback on how well they match the job description, along with missing keywords and a profile summary.
 
 ## Features
 
@@ -82,9 +81,6 @@ To run this application locally, follow these steps:
 - [PyPDF2](https://pypi.org/project/PyPDF2/)
 - [python-dotenv](https://pypi.org/project/python-dotenv/)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
