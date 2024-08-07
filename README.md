@@ -18,8 +18,8 @@ To run this application locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/smart-ats.git
-    cd smart-ats
+    git clone https://github.com/aarvi18/ATS-Tracker-System.git
+    cd ATS-Tracker-System
     ```
 
 2. **Create a virtual environment:**
